@@ -3,4 +3,7 @@
     <string name="baseText">Hello, World!</string>
     <string name="say_bye">Bye</string>
     <string name="bye">Bye!</string>
+    <string name="button">Page</string>
+    <string name="title_activity__duece">Activity_Duece</string>
+    <string name="action_settings">Settings</string>
 </resources>
